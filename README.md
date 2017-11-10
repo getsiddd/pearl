@@ -2,7 +2,8 @@ PEARL ( Programmable Evolute Artificial Reasoning Logic System) A General Purpos
 Its a General Purpose Conversation cum Reasoning System.
 
 
-| PEARL is            | Details |
+| PEARL is            | Details              |
+| :---                | :---                 |
 | Human               | No, she is not Human. But yes she is a Girl. Some Female touch is given in it. |
 | Math Solver         | Yes, she can solve math and also learns math too. It's a very basic version of Mathematica Wolframe Alpha  |
 | Coding Solver       | Partially Yes, she knows and had leaned all Stack overflow Database, So if you ask coding doubts or problems, she will give answers,sometimes it gives right, sometimes wrong |
